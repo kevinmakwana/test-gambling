@@ -9,7 +9,7 @@
 
 ## Installation Steps
 
-Please Follow below steps to run this project
+This project is built with Laravel 8 so please find laravel 8 server requirements (https://laravel.com/docs/8.x/deployment).Please Follow below steps to run this project.
 
 - git clone https://github.com/kevinmakwana/test-gambling.git
 - cd test-gambling
